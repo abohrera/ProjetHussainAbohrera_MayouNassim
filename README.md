@@ -8,7 +8,7 @@ Ce projet Java consiste à ajouter des fonctionnalités à un jeu existant, init
 Adaptation aux demandes : 
 
 Nous avons adapté le code initial de Monsieur Tauvel pour appliquer les concepts appris lors des cours-vidéos. 
-Ensuite, sur quatre séances de TP, nous avons implémenté les nouvelles fonctionnalités suivantes :
+Ensuite, sur deux séances de TP, nous avons implémenté les nouvelles fonctionnalités suivantes :
 •	Écran d'accueil permettant au joueur de démarrer une partie ou de quitter le jeu.
 •	Timer pour limiter le temps de jeu du joueur.
 •	Écran de Game Over s'affichant si le joueur n'atteint pas l'objectif dans le temps imparti.
@@ -25,11 +25,11 @@ ce qui nécessitait une compréhension approfondie du code initial.
 Apprentissage : 
 
 Les premiers tps et les cours vidéo ont permis d’assimiler les bases de Java, 
-notamment les concepts liés aux classes et aux constructeurs. 
-Les quatre derniers TP nous ont permis de mettre en pratique directement ce que nous avions appris.
-Cependant, j'aurais préféré avoir des cours en présentiel plutôt qu'en vidéo. 
+notamment les concepts liés aux classes, aux constructeurs et aux méthodes. 
+Les deux derniers TP nous ont permis de mettre en pratique directement ce que nous avions appris.
+Cependant, nous aurions préféré avoir des cours en présentiel plutôt qu'en vidéo. 
 La possibilité de poser des questions directement pendant le cours est plus simple et plus intuitive pour nous étudiant.
-Néanmoins, j'ai apprécié que les cours vidéo soit structuré comme un projet de code (pokémon) plutôt que comme un cours purement théorique,
+Néanmoins, nous avons apprécié que les cours vidéo soit structuré comme un projet de code (pokémon) plutôt que comme un cours purement théorique,
 cela permet de mieux comprendre le langage informatique.
 
 Problème avec le Timer: 
